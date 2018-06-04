@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 # MCC-Register
 =======
 REGISTRATION FORM FOR MIST COMPUTER CLUB
->>>>>>> 3b015479e7b3de66fd67494f83095cf597b0cb28
+
